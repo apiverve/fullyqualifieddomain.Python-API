@@ -67,11 +67,12 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
+    "ip": "199.30.24.0",
     "baseDomain": "msn.com",
-    "detected": true,
     "fqdn": "msnbot-199-30-24-0.search.msn.com",
-    "ip": "199.30.24.0"
-  }
+    "detected": true
+  },
+  "code": 200
 }
 ```
 
